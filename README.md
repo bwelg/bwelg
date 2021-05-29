@@ -27,4 +27,4 @@
 
 - 📫 How to reach me ...
 
-![](https://img.shields.io/badge/-Microsoft%20Outlook-0078D4?logo=Microsoft%20Outlook&logoColor=white&style=flat-square)
+[![](https://img.shields.io/badge/-Microsoft%20Outlook-0078D4?logo=Microsoft%20Outlook&logoColor=white&style=flat-square)](mailto:bwelg@outlook.kr)
